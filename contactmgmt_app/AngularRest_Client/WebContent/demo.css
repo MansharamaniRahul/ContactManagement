@@ -1,0 +1,54 @@
+#theDiv
+{
+	width: 280px;
+    height: 180px;
+    background-color: white;
+    box-shadow: 2px 2px 5px #888888;
+    float :left;
+    position:relative;
+    margin-right:5px;
+    margin-top:10px;
+}
+
+
+.imageSize
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 60px;
+    height: 90px;
+   background-image: url("../../images1.jpg");
+     float:left;
+}
+
+
+
+.body-label
+{
+float:right;
+}
+
+.spacing
+{
+margin-top:20px;
+}
+
+.deleteDiv
+{
+	margin-left:220px;
+}
+
+
+
+.name
+{
+    position: absolute;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    width:150px;
+    height:150px;
+    float:left;
+
+}
+
+	
